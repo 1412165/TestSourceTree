@@ -1,0 +1,7 @@
+- Chương: 
+	+ Phối màu sắc website
+- Hiệp: 
+	+ Thêm menu chỗ account
+	+ Chỉnh responsive
+- Hiếu:
+	+ Menu chuyên mục
