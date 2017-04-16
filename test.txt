@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 test master branch
 name s
+=======
+dev branch
+name sđâsdasdasd
+>>>>>>> 2c3210209138e74ab694fef13be2178d4fcb4296
